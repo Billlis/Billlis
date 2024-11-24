@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 Developer
 ---------
-After switching careers I started with HTML, but have really found passion at Python and Machine Learning
+After switching careers I started with Javascript, but have really found passion at Python and Machine Learning
 * 🌍  I'm based in Thessalomiki, Greece
 * ✉️  You can contact me at [billlis@hotmail.com](mailto:billlis@hotmail.com)
 * 🚀  I'm currently working on [Alpha Bank](http://www.alpha.gr)
